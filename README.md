@@ -1,6 +1,8 @@
 ### Hi there 👋
+
 ### My name is Danyil
-### - 🔭 I’m currently working on ...
+
+### - 🔭 I’m currently working as a Full-Stack developer for one year ...
 ### Languages
 
 
