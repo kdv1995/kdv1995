@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi all guys 👋
 
-### My name is Danyil
+### My name is Danyil Kurka
 
+Please, feel free to contact with me followed by:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyil-kurka-8bb791217)
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
