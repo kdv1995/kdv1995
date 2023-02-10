@@ -1,22 +1,20 @@
-👌 Hi all guys. That's my professional profile, and I'm Danyil Kurka
-<hr/>
+<h1>👌 Hi all guys. That's my professional profile, and I'm Danyil Kurka</h1>
 
-Please, feel free to contact with me from the following links:
+<em>Please, feel free to contact with me from the following links:</em>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyil-kurka-8bb791217)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://google.com)
 
-<hr/>
-The Tech Stack: 
+<b>The Tech Stack:</b>
 
 [ 
-  
-  { FrontEnd: 
-  
-{ ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)}, { ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)}, { ![React](https://img.shields.io/badge/-React-000?&logo=React)} },
 
-  { BackEnd:  
+  FrontEnd: 
   
-  { ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) } }
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+BackEnd:  
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
   
 ]
