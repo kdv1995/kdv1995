@@ -1,4 +1,4 @@
-<h1>Over 1+ year as a  React/Typescript developer and 0,5+ as a Backend developer </h1>
+<h1><em/>Over 1+ year as a  React/Typescript developer and 0,5+ as a Backend developer</em></h1>
 
 <em>Please, feel free to contact with me from the following links:</em>
 
