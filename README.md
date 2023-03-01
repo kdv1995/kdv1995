@@ -16,7 +16,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-fffff?style=flat-square&logo=express&logoColor=black)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=red&color=black)
+![Nest.js](https://img.shields.io/badge/-Nest.js-fffff?style=flat-square&logo=nestjs&logoColor=red&color=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
 
