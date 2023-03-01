@@ -1,4 +1,4 @@
-<h1><b><em/>Over 1+ year as a  Full Stack with  React/Typescript & Node/Express/Nest/MongoDB</em></b></h1>
+<h1><b><em/>Over 1+ year as a Software Engineer</em></b></h1>
 
 <em>Please, feel free to contact with me from the following links:</em>
 
