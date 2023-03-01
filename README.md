@@ -22,7 +22,8 @@
 
 ### Cloud technologies
 
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-00000?style=flat-square&logo=google-cloud&logoColor=black)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-00000?style=flat-square&logo=google-cloud&logoColor=white&color=yellow)
+
 
 
 
