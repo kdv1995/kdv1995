@@ -23,8 +23,7 @@
 ### Cloud technologies
 
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-00000?style=flat-square&logo=google-cloud&logoColor=green&color=black)
-[![Netlify](https://img.shields.io/badge/-Netlify-fffff?style=flat-square&logo=netlify&logoColor=black)](https://www.netlify.com/)
-
+[![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ### DevOps
 
