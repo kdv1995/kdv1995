@@ -25,6 +25,8 @@
 ### Tools
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/)
 [![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logo=iterm2)](https://iterm2.com/)
+![Vim Editor](https://img.shields.io/badge/Vim-Editor-brightgreen?style=flat-square&logo=vim&logoColor=white)
+
 
 
 
