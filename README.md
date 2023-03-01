@@ -28,7 +28,19 @@
 ### DevOps
 
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![NPM](https://img.shields.io/badge/-NPM-F7B93E?style=flat-square&logo=npm&logoColor=white&color=blue)
 
+### Tools
+
+
+
+### Languages proficiency
+
+English — C1
+German — B2
+Ukrainian - native
+
+### Work experience
 
 
 
