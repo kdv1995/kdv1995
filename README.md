@@ -18,7 +18,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-fffff?style=flat-square&logo=nestjs&logoColor=red&color=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Postman](https://img.shields.io/badge/-Postman-000?style=flat-square&logo=postman&logoColor=white&color=blue)
+![Postman](https://img.shields.io/badge/-Postman-00000?style=flat-square&logo=postman&logoColor=white&color=blue)
 
 
 
