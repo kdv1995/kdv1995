@@ -5,33 +5,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyil-kurka-8bb791217)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://google.com)
 
-
 ### Front End:
 ![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
 ![React](https://img.shields.io/badge/React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
 ![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
-
 ### Back End
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-fffff?style=flat-square&logo=nestjs&logoColor=red&color=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Postman](https://img.shields.io/badge/-Postman-00000?style=flat-square&logo=postman&logoColor=white&color=black)
-
 ### Cloud technologies
-
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-00000?style=flat-square&logo=google-cloud&logoColor=green&color=black)
 [![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
-
 ### DevOps
-
 [![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat-square&logo=prettier&logoColor=yellow)](https://prettier.io/)
 ![NPM](https://img.shields.io/badge/-NPM-00000?style=flat-square&logo=npm&logoColor=white&color=black)
-
 ### Tools
-
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/)
 [![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logo=iterm2)](https://iterm2.com/)
 
