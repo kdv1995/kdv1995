@@ -13,3 +13,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
+### Technologies
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+[![Redux](https://img.shields.io/badge/Redux-4.1.2-blue.svg?logo=redux)](https://redux.js.org/)
+
+
