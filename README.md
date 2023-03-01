@@ -20,6 +20,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Postman](https://img.shields.io/badge/-Postman-00000?style=flat-square&logo=postman&logoColor=white&color=black)
 
+### Cloud technologies
+
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-00000?style=flat-square&logo=google-cloud&logoColor=black)
+
+
+
+
 
 
 
