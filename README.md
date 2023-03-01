@@ -18,6 +18,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-[![Redux](https://img.shields.io/badge/Redux-4.1.2-black.svg?logo=redux)](https://redux.js.org/)
+[![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)](https://redux.js.org/)
 
 
