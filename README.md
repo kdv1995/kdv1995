@@ -28,7 +28,7 @@
 ### DevOps
 
 ![Prettier](https://img.shields.io/badge/-Prettier-00000?style=flat-square&logo=prettier&logoColor=black)
-![NPM](https://img.shields.io/badge/-NPM-0000?style=flat-square&logo=npm&logoColor=white&color=blue)
+![NPM](https://img.shields.io/badge/-NPM-00000?style=flat-square&logo=npm&logoColor=white&color=black)
 
 ### Tools
 
