@@ -14,8 +14,8 @@
 
 ### Back End
 
-![Node.js](https://img.shields.io/badge/Node.js-000?&logo=node.js)
-![Nest.js](https://img.shields.io/badge/Nest.js-000?&logo=nest.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=nest.js)
 
 
 
