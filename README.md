@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
 ![React](https://img.shields.io/badge/React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next-dot-js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket-dot-io&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css&logoColor=white)
