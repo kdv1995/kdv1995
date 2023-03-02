@@ -23,6 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ### CMS
 ![Sanity.io](https://img.shields.io/badge/Sanity.io-2021-1E1E1E?style=flat-square&logo=sanity&logoColor=#F7DF1E)
+![Prismic](https://img.shields.io/badge/Prismic-2021-5163BA?style=for-the-badge&logo=prismic&logoColor=white)
 ### API Testing
 ![Postman](https://img.shields.io/badge/-Postman-00000?style=flat-square&logo=postman&logoColor=white&color=black)
 ### Cloud technologies
