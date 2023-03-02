@@ -2,9 +2,9 @@
 
 <em>Please, feel free to contact with me from the following links:</em>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40daniel__vadimovich-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23fd1d1d&logoWidth=20)](https://www.instagram.com/daniel_vadimovich/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danyil%20Kurka-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyil-kurka-8bb791217/)
 [![Telegram](https://img.shields.io/badge/Telegram-@tribeofdanel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tribeofdanel)
+[![Instagram](https://img.shields.io/badge/Instagram-%40daniel__vadimovich-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23fd1d1d&logoWidth=20)](https://www.instagram.com/daniel_vadimovich/)
 
 
 
