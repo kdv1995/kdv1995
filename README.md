@@ -36,12 +36,9 @@
 
 
 ### Languages proficiency
-
-English — C1
-
-German — B2
-
 Ukrainian - native
+English — C1
+German — B2
 
 ### Work experience
 
