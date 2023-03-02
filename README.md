@@ -20,7 +20,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-fffff?style=flat-square&logo=nestjs&logoColor=red&color=black)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat-square&logo=mongodb&logoColor=white&color=black)
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white&color=black)
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ### DMBS
