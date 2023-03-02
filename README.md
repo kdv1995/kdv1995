@@ -21,7 +21,7 @@
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ### CMS
-![Sanity.io](https://img.shields.io/badge/Sanity.io-2021-1E1E1E?style=flat-square&logo=sanity&logoColor=#F7DF1E)
+![Sanity.io](https://img.shields.io/badge/Sanity.io-2021-1E1E1E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABg0lEQVQ4T6WTPUvDUBD+Z5oFtlEz0B0IQXKkCwsxgRUdQJLR3F5j+Ae5Cs5Gj+QfEYZ3qVgX9NquxuV7+RtYbNc7z31wZJ/lt7TzuTfj+VfX9e+i98Du4M4E+MtH4JhfhFKbwCVAzQ2ug7k3G0f0V7PvjxJdRtRxBuJY1ud+7zexwcz1S23JjgOACAO9c7gggiHN+4fVy4O4gjQ2Oe1sIwvIfmCEgW8CkQc/BF6Hdpv6U03RL6U09Su6XTMAwa6wDbvRxE+76WABDedlNpxNYxkx/2imzq3ib/TAe5xzHT60wNdmvRyWbeDy9iMfmByvrKrShzGawZ3q0ib0h51LkP/j5cBGbmgoWzfk8bXHvn6x0i6vZg6zxfJF9jPp/WHHz/0R1Hif/AvzZJmqlMkAAAAASUVORK5CYII=)
 ### API Testing
 ![Postman](https://img.shields.io/badge/-Postman-00000?style=flat-square&logo=postman&logoColor=white&color=black)
 ### Cloud technologies
