@@ -10,6 +10,7 @@
 
 ### Front End:
 ![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/React-000?&logo=React)
 ![React Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
