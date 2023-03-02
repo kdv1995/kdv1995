@@ -34,10 +34,11 @@
 [![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat-square&logo=prettier&logoColor=yellow)](https://prettier.io/)
 ![NPM](https://img.shields.io/badge/-NPM-00000?style=flat-square&logo=npm&logoColor=white&color=black)
 ### Tools
+![Vim](https://img.shields.io/badge/Vim-black?style=flat-square&logo=vim&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/)
 ![GitLab](https://img.shields.io/badge/GitLab-black.svg?style=flat-square&logo=gitlab&logoColor=white)
 [![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logo=iterm2)](https://iterm2.com/)
-![Vim](https://img.shields.io/badge/Vim-brightgreen?style=flat-square&logo=vim&logoColor=white)
+
 
 
 
