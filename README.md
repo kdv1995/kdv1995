@@ -17,19 +17,13 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=vercel&logoColor=white&link=https://nextjs.org/)
 ![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket-dot-io&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&link=https://material-ui.com/&color=0081CB)| Content  |
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&link=https://material-ui.com/&color=0081CB)| ### Back End
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
+![Nest.js](https://img.shields.io/badge/-Nest.js-fffff?style=flat-square&logo=nestjs&logoColor=red&color=black)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat-square&logo=mongodb&logoColor=white&color=black) |
 | Content  | Content  |
 
-### Front End:
-![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
-![React](https://img.shields.io/badge/React-000?&logo=React)
-![React Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=vercel&logoColor=white&link=https://nextjs.org/)
-![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket-dot-io&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&link=https://material-ui.com/&color=0081CB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css&logoColor=white)
 ### Back End
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
