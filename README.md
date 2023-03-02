@@ -14,6 +14,7 @@
 ![React](https://img.shields.io/badge/React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
 ![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-4.4.1-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white)
 ### Back End
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
