@@ -32,6 +32,7 @@
 ### Cloud technologies
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-00000?style=flat-square&logo=google-cloud&logoColor=green&color=black)
 [![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ### DevOps
 [![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat-square&logo=prettier&logoColor=yellow)](https://prettier.io/)
 ![NPM](https://img.shields.io/badge/-NPM-00000?style=flat-square&logo=npm&logoColor=white&color=black)
