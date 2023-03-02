@@ -7,7 +7,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40daniel__vadimovich-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23fd1d1d&logoWidth=20)](https://www.instagram.com/daniel_vadimovich/)
 
 
-
+| Column 1 | Column 2 |
+|----------|----------|
+|   ### Front End:
+![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
+![React](https://img.shields.io/badge/React-000?&logo=React)
+![React Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=vercel&logoColor=white&link=https://nextjs.org/)
+![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket-dot-io&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&link=https://material-ui.com/&color=0081CB)| Content  |
+| Content  | Content  |
 
 ### Front End:
 ![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
