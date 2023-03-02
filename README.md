@@ -14,7 +14,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=vercel&logoColor=white&link=https://nextjs.org/)
 ![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket-dot-io&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&link=https://material-ui.com/&color=0081CB)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&link=https://material-ui.com/&color=000000)
 ### Back End
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
