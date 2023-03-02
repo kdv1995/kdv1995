@@ -12,6 +12,7 @@
 ### Front End:
 ![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
 ![React](https://img.shields.io/badge/React-000?&logo=React)
+![React Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next-dot-js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
