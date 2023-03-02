@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyil-kurka-8bb791217)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://google.com)
+[![Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_vadimovich/)
 
 ### Front End:
 ![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
