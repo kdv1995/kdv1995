@@ -1,4 +1,4 @@
-<h1><b><em/>Over 1+ year as a Software Engineer</em></b></h1>
+<h1><b><em/>Over 1+ year as Full Stack Developer with Expertise in JavaScript, React, Node.js, MongoDB, and Cloud Technologies</em></b></h1>
 
 <em>Please, feel free to contact with me from the following links:</em>
 
