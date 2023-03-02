@@ -40,6 +40,7 @@
 ### DevOps
 [![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat-square&logo=prettier&logoColor=yellow)](https://prettier.io/)
 ![NPM](https://img.shields.io/badge/-NPM-00000?style=flat-square&logo=npm&logoColor=white&color=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ### Tools
 ![Vim](https://img.shields.io/badge/Vim-black?style=flat-square&logo=vim&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/)
