@@ -1,4 +1,4 @@
-<h1><b><em/>Over 1+ year as Full Stack Developer with Expertise in JavaScript, TypeScript, React, Node.js, MongoDB, and Cloud Technologies</em></b></h1>
+<h1><b><em/>Over 1.5+ year as Full Stack Developer with Expertise in JavaScript, TypeScript, React, Node.js, MongoDB, and Cloud Technologies</em></b></h1>
 
 👋 Hi there! I'm a highly skilled and motivated developer with a passion for building top-notch web applications. With proficiency in a wide range of cutting-edge technologies such as JavaScript, React, Redux, Next.js, Node.js, Express.js, MongoDB, and more, I'm ready to take on any challenge in the front-end and back-end development space. Additionally, I'm experienced in API testing with Postman and have worked with a variety of cloud technologies, including Google Cloud Platform, Netlify, and Heroku. I also have expertise in tools like Vim, GitHub, GitLab, and iTerm. With fluency in multiple languages, including Ukrainian (native), English (C1), and German (B2), I'm equipped to work with diverse teams and communicate effectively.
 
