@@ -28,7 +28,7 @@
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ### DMBS
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&l
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&l)
 ### API Testing
 ![Postman](https://img.shields.io/badge/-Postman-00000?style=flat-square&logo=postman&logoColor=white&color=black)
 ### Cloud technologies
