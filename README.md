@@ -51,7 +51,14 @@ Ukrainian - native
 English — C1
 German — B2
 
+### Personal projects
 
+Weather widget website with tracking the last 100 request that are store to database
+Technologies:
+FE: React(vite), React-router-dom, tailwind.css, react-icons
+BE: Nest.js, Mongoose, Restfull, MVC
+DevOps: Fly.io, Vercel
+Tools: Postmat, NVIM
 
 
 
