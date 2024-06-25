@@ -59,6 +59,7 @@ FE: React(vite), React-router-dom, tailwind.css, react-icons<br/>
 BE: Nest.js, Mongoose, Restfull, MVC<br/>
 DevOps: Fly.io, Vercel<br/>
 Tools: Postmat, NVIM<br/>
+Deployment link: https://fe-weather.vercel.app/
 
 
 
