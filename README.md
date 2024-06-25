@@ -53,7 +53,7 @@ German — B2
 
 ### Personal projects
 
-Weather widget website with tracking the last 100 request that are store to database
+Weather widget website with tracking the last 100 request that are store to database<br/>
 Technologies:
 FE: React(vite), React-router-dom, tailwind.css, react-icons
 BE: Nest.js, Mongoose, Restfull, MVC
