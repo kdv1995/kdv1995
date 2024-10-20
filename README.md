@@ -1,67 +1,24 @@
-<h1><b><em/>With over 3 years of experience as a Full Stack Developer, I have expertise in JavaScript, TypeScript, React, Node.js, MongoDB, and cloud technologies. Additionally, I am skilled in Solidity and Web3 development.</em></b></h1>
-
-👋 Hi there! I'm a highly skilled and motivated full-stack web engineer with a passion for building top-notch web applications. With proficiency in a wide range of cutting-edge technologies such as JavaScript, React, Redux, Next.js, Node.js, Express.js, MongoDB,Ethers, Web3, React Query and Wagmi and more, I'm ready to take on any challenge in both front-end and back-end development. Additionally, I'm experienced in API testing with Postman and have worked with a variety of cloud technologies, including Google Cloud Platform, Netlify, Heroku and Vercel. I also have expertise in tools like Vim, GitHub, GitLab, and iTerm. With fluency in multiple languages—Ukrainian (native), English (C1), and German (B2)—I'm equipped to work with diverse teams and communicate effectively.
-
-<em>Please, feel free to contact with me from the following links:</em>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danyil%20Kurka-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyil-kurka-8bb791217/)
-[![Telegram](https://img.shields.io/badge/Telegram-@tribeofdanel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tribeofdanel)
-[![Instagram](https://img.shields.io/badge/Instagram-%40daniel__vadimovich-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23fd1d1d&logoWidth=20)](https://www.instagram.com/daniel_vadimovich/)
-
-### Front End:
-![JavaScript](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/React-000?&logo=React)
-![React Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-black.svg?logo=redux)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=vercel&logoColor=white&link=https://nextjs.org/)
-![Sass](https://img.shields.io/badge/Sass-black.svg?logo=sass)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket-dot-io&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&link=https://material-ui.com/&color=000000)
-### Back End
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=green)
-![Nest.js](https://img.shields.io/badge/-Nest.js-fffff?style=flat-square&logo=nestjs&logoColor=red&color=black)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat-square&logo=mongodb&logoColor=white&color=black)
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white&color=black)
-![ChatGPT OpenAI](https://img.shields.io/badge/ChatGPT%20OpenAI-FF6600?style=flat-square&logo=openai&logoColor=white&color=black)
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-### DMBS
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&l)
-### API Testing
-![Postman](https://img.shields.io/badge/-Postman-00000?style=flat-square&logo=postman&logoColor=white&color=black)
-### Cloud technologies
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-00000?style=flat-square&logo=google-cloud&logoColor=green&color=black)
-[![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white&color=black)
-### DevOps
-[![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat-square&logo=prettier&logoColor=yellow)](https://prettier.io/)
-![NPM](https://img.shields.io/badge/-NPM-00000?style=flat-square&logo=npm&logoColor=white&color=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
-![Stylelint](https://img.shields.io/badge/stylelint-000?style=flat-square&logo=stylelint&logoColor=white)
-### Tools
-![Vim](https://img.shields.io/badge/Vim-black?style=flat-square&logo=vim&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/)
-![GitLab](https://img.shields.io/badge/GitLab-black.svg?style=flat-square&logo=gitlab&logoColor=white)
-[![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logo=iterm2)](https://iterm2.com/)
-
-### Languages proficiency
-Ukrainian - native
-English — C1
-German — B2
+# 💫 About Me:
+I'm a highly skilled full-stack web engineer with expertise in building high-quality web applications using modern technologies such as JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Web3, Ethers, and Wagmi. I have a strong background in both front-end and back-end development and am experienced in API testing with Postman. Additionally, I've worked with cloud platforms like GCP, Netlify, Heroku, and Vercel. Fluent in Ukrainian, English, and German, I thrive in diverse, collaborative environments, using tools like Vim, GitHub, GitLab, and iTerm to deliver top-notch solutions.<br><br><br><br><br><br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danyil-kurka-8bb791217/) 
 
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kdv1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kdv1995&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdv1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kdv1995&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=kdv1995&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
