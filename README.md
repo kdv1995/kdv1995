@@ -8,7 +8,7 @@ In the Web3 space, I bring hands-on proficiency in blockchain development, parti
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/ethers.js-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=blue)
-![Viem](https://img.shields.io/badge/viem-%Blockchain-%236547F7?style=for-the-badge&logo=ethereum)
+![Viem 1.0](https://img.shields.io/badge/viem-1.0-%236547F7?style=for-the-badge)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
