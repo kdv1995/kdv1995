@@ -3,8 +3,6 @@ With over three years of experience as a Software Engineer, I specialize in buil
 In the Web3 space, I bring hands-on proficiency in blockchain development, particularly in designing secure and optimized smart contracts with Solidity. My passion for staying at the forefront of technology drives me to deliver innovative, impactful results across both Web2 and Web3 ecosystems.<br>
 
 
-
-# 💻 Tech Stack:
 ![AI](https://img.shields.io/badge/AI-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-%2342b983.svg?style=for-the-badge&logo=ai&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -14,7 +12,6 @@ In the Web3 space, I bring hands-on proficiency in blockchain development, parti
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
