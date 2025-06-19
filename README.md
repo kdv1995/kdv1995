@@ -34,3 +34,10 @@ In the Web3 space, I bring hands-on proficiency in blockchain development, parti
 
 
 
+
+
+Projects:
+
+Landing pages:
+
+Marine services landing page: https://fe-shipping-marine.vercel.app/
