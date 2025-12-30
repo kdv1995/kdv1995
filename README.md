@@ -31,3 +31,6 @@ In the Web3 space, I bring hands-on proficiency in blockchain development, parti
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+
+[![Danyil profile views](https://u8views.com/api/v1/github/profiles/68147415/views/day-week-month-total-count.svg)](https://u8views.com/github/kdv1995)
