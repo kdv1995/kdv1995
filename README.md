@@ -35,7 +35,7 @@ In the Web3 space, I bring hands-on proficiency in blockchain development, parti
 
 [![Danyil profile views](https://u8views.com/api/v1/github/profiles/68147415/views/day-week-month-total-count.svg)](https://u8views.com/github/kdv1995)
 
-Products:
+Products:<br>
 Social management app: www.social-chanlles-manager.biz.ua <br>
 Open source pomodoro app: https://github.com/kdv1995/pomodoro-pulse <br>
 Marketing landing page for Pomodoro Pulse: https://landing-pomodoro.vercel.app
